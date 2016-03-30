@@ -45,13 +45,10 @@ Ví dụ:
 
 ##Tham khảo:
 
-https://help.ubuntu.com/community/LinuxFilesystemsExplained
-
-http://www.thegeekstuff.com/2010/09/linux-file-system-structure/
-
-https://hostingaz.vn/2654-tong-hop-cac-lenh-df-huu-dung-khi-kiem-tra-dung-luong-o-dia-tren-linux.html
-
-https://www.crazytut.com/29-cau-lenh-linux-ban-can-phai-biet/
+- https://help.ubuntu.com/community/LinuxFilesystemsExplained
+- http://www.thegeekstuff.com/2010/09/linux-file-system-structure/
+- https://hostingaz.vn/2654-tong-hop-cac-lenh-df-huu-dung-khi-kiem-tra-dung-luong-o-dia-tren-linux.html
+- https://www.crazytut.com/29-cau-lenh-linux-ban-can-phai-biet/
 
 
 
