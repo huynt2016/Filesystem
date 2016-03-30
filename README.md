@@ -28,7 +28,7 @@
 <img src="http://i.imgur.com/YGX4cPs.png">
 
 ##III.Các câu lệnh du, df
-- du: Xem kích thước của tập tin, thư mục
+- du: Xem kích thước của tập tin, thư mục.
 Ví dụ:
 <ul>
   <li>```du -sh *``` : Hiên thị kích cỡ của tất cả các tập tin có trong thư mục hiện tại</li>
@@ -38,6 +38,11 @@ Ví dụ:
 <img src="http://i.imgur.com/5nTOiuA.png">
 
 <img src="http://i.imgur.com/B3drwe2.png">
+
+- df: Xem thông tin về lượng ổ cứng khả dụng và lượng ổ cứng đã dùng của các file hệ thống trên linux.
+
+<img src="http://i.imgur.com/7FaFIEB.png">
+
 
 
 
