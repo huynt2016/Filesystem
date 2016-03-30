@@ -24,4 +24,22 @@
 - Đơn vị: GiB = Gibibyte (1024 MiB) :: TiB = tebibyte (1024 GiB) :: PIB = Pebibyte (1024 Tib) :: EIB = Exbibyte (1024 PIB)
 
 ##II.Cấu trúc thư mục hệ thống
-##III.Các câu lệnh thực thi với thư mục, tập tin trong Linux
+
+<img src="http://i.imgur.com/YGX4cPs.png">
+
+##III.Các câu lệnh du, df
+- du: Xem kích thước của tập tin, thư mục
+Ví dụ:
+<ul>
+  <li>```du -sh *``` : Hiên thị kích cỡ của tất cả các tập tin có trong thư mục hiện tại</li>
+  <li>```du -sh tên-file-cần xem``` (ví dụ du -sh file1) : Hiển thị kích cỡ của file1</li>
+</ul>
+
+<img src="http://i.imgur.com/5nTOiuA.png">
+
+<img src="http://i.imgur.com/B3drwe2.png">
+
+
+
+
+
